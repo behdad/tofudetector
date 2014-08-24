@@ -67,6 +67,57 @@
     <maxComponentDepth value="0"/>
   </maxp>
 
+  <OS_2>
+    <version value="3"/>
+    <xAvgCharWidth value="790"/>
+    <usWeightClass value="400"/>
+    <usWidthClass value="5"/>
+    <fsType value="00000000 00000000"/>
+    <ySubscriptXSize value="1434"/>
+    <ySubscriptYSize value="1331"/>
+    <ySubscriptXOffset value="0"/>
+    <ySubscriptYOffset value="287"/>
+    <ySuperscriptXSize value="1434"/>
+    <ySuperscriptYSize value="1331"/>
+    <ySuperscriptXOffset value="0"/>
+    <ySuperscriptYOffset value="977"/>
+    <yStrikeoutSize value="102"/>
+    <yStrikeoutPosition value="512"/>
+    <sFamilyClass value="2562"/>
+    <panose>
+      <bFamilyType value="2"/>
+      <bSerifStyle value="0"/>
+      <bWeight value="5"/>
+      <bProportion value="6"/>
+      <bContrast value="0"/>
+      <bStrokeVariation value="0"/>
+      <bArmStyle value="0"/>
+      <bLetterForm value="2"/>
+      <bMidline value="0"/>
+      <bXHeight value="3"/>
+    </panose>
+    <ulUnicodeRange1 value="10000000 00000000 00000000 00101111"/>
+    <ulUnicodeRange2 value="01000000 00000000 00000000 01001010"/>
+    <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="    "/>
+    <fsSelection value="00000000 01000000"/>
+    <fsFirstCharIndex value="32"/>
+    <fsLastCharIndex value="64260"/>
+    <sTypoAscender value="2048"/>
+    <sTypoDescender value="-512"/>
+    <sTypoLineGap value="0"/>
+    <usWinAscent value="2048"/>
+    <usWinDescent value="512"/>
+    <ulCodePageRange1 value="00000000 00000000 00000000 00000101"/>
+    <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
+    <sxHeight value="1024"/>
+    <sCapHeight value="1534"/>
+    <usDefaultChar value="0"/>
+    <usBreakChar value="32"/>
+    <usMaxContex value="3"/>
+  </OS_2>
+
   <hmtx>
     <mtx name=".notdef" width="2048" lsb="0"/>
     <mtx name="glyph00001" width="20480" lsb="0"/>
@@ -88,7 +139,7 @@
     </TTGlyph>
   </glyf>
 
-  <cmap ERROR="">
+  <cmap raw="1">
     <!-- Hand-coded format13 table mapping all Unicode
          characters to glyph00001. -->
     <hexdata>
