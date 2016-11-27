@@ -126,6 +126,9 @@
   <loca>
   </loca>
 
+  <name>
+  </name>
+  
   <glyf> <!-- Will result in empty table -->
     <TTGlyph name=".notdef"/>
     <TTGlyph name="glyph00001">
@@ -155,5 +158,17 @@
             00000001  <!-- glyphID -->
     </hexdata>
   </cmap>
+
+  <post>
+    <formatType value="3.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-100"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+  </post>
 
 </ttFont>
